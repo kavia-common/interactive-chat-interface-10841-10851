@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/interactive-chat-interface-10841-10851/chat_frontend"
+}
